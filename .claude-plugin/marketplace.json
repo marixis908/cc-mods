@@ -1,0 +1,13 @@
+{
+  "name": "cc-mods",
+  "owner": {
+    "name": "marixis908"
+  },
+  "description": "Mody do Claude Code: widok modeli/kontekstu agentow, dobor modeli subagentow",
+  "plugins": [
+    {
+      "name": "agent-lens",
+      "source": "./agent-lens"
+    }
+  ]
+}

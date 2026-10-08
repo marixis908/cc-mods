@@ -1,0 +1,9 @@
+{
+  "name": "agent-lens",
+  "version": "0.1.0",
+  "description": "Band nad promptem: model kazdego agenta, kontekst, koszt, ETA; automatyczny dobor modelu subagentow.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "marixis908"
+  }
+}
